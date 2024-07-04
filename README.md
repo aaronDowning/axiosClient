@@ -4,7 +4,7 @@
 
     ```sh
     git clone https://github.com/aaronDowning/axiosClient
-    cd axios-client
+    cd axiosClient
     ```
 
 2. Install the dependencies:
